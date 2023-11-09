@@ -1,4 +1,5 @@
-# My Personal Hyprland Rice
+# Cloned from https://gitlab.com/Oglo12/hyprland-rice
+## My Personal Hyprland Rice
 > How to Install:
   1. Install all required programs in: `required_programs/YOUR_OS.txt`
   2. (Optional) Configure SDDM theme. [Click for tutorial.](https://linuxconfig.org/how-to-customize-the-sddm-display-manager-on-linux)
